@@ -1,6 +1,5 @@
 # Projeto-Doceria
  Doceria
+# Tecnologias HTML5, CSS3
 
-# Tecnologias usadas HTML5, CSS3
-
-![DOCERIA](https://user-images.githubusercontent.com/102436341/228939525-1662d3ad-f393-491e-856f-338a3caccf60.png)
+![google-1](https://user-images.githubusercontent.com/102436341/228941185-1a817013-bc77-4736-9c24-94bdd8d05ca4.png)
